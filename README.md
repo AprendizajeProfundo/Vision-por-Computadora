@@ -57,9 +57,10 @@ Este es un repositorio creado para el módulo de visión por computadora del dip
 - Ejemplos con análisis de sentimiento
 
 ## Libros de referencia :pushpin:
-- [Mastering Computer Vision with TensorFlow 2.x - Packt Publishing](https://www.packtpub.com/product/mastering-computer-vision-with-tensorflow-2-x/9781838827069)
-- [Learning OpenCV 4 Computer Vision with Python 3 - Packt Publishing](https://www.packtpub.com/product/learning-opencv-4-computer-vision-with-python-3-third-edition/9781789531619)
+- [Mastering Computer Vision with TensorFlow 2.x – Packt Publishing](https://www.packtpub.com/product/mastering-computer-vision-with-tensorflow-2-x/9781838827069)
+- [Learning OpenCV 4 Computer Vision with Python 3 – Packt Publishing](https://www.packtpub.com/product/learning-opencv-4-computer-vision-with-python-3-third-edition/9781789531619)
 - [TensorFlow 2.0 Computer Vision Cookbook – Packt Publishing](https://www.packtpub.com/product/tensorflow-2-0-computer-vision-cookbook/9781838829131)
 - [Pytorch Computer Vision Cookbok – Packt Publishing](https://www.packtpub.com/data/pytorch-computer-vision-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781838644833)
+- [Computer Vision: Algorithms and Applications 2nd Edition – Richard Szeliski](https://szeliski.org/Book/)
 - [A guide to convolution arithmetic for deep learning – Vincent Dumoulin & Francesco Visin](https://arxiv.org/pdf/1603.07285.pdf)
 - [Deep Learning in Computer Vision: Principles and Applications – CRC Press](https://www.routledge.com/Deep-Learning-in-Computer-Vision-Principles-and-Applications/Hassaballah-Awad/p/book/9781032242859)
