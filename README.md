@@ -4,8 +4,8 @@ Este es un repositorio creado para el módulo de visión por computadora del dip
 ## Introducción :clipboard:
 - ¿Qué es una la visión por Computadora?
 - El estado del Arte
-- Demostraciones
 - Prerrequisitos/Paquetes a usar
+- Demostraciones
 
 ## Aritmética Convolucional :page_with_curl:
 - ¿Qué es una convolución?
@@ -38,11 +38,13 @@ Este es un repositorio creado para el módulo de visión por computadora del dip
 - Transfer Learning
     - DeepDream, Neural Style Transfer
 - Detección Avanzada de Objetos
+    - DARKNET
     - YOLO
-    - DarkNet
     - R-CNN, SSD, R-FCN
 - Redes Convolucionales y Recurrentes
     - Descripción de Imágenes
+- Las nuevas propuestas
+    - Transformers Visuales
 
 ## Tratamiento de Audios :sound:
 - Pre Procesamiento
